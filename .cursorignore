@@ -1,0 +1,22 @@
+# Launchpad preview runtime (managed by platform — do not read or commit)
+.platform/
+.launchpad/
+.launchpad/**
+node_modules/
+.spa-build/
+dist/
+build/
+.npm-cache/
+.pip-cache/
+.env
+.env.*
+preview.log
+.preview-last-access
+ecosystem.preview.cjs
+ecosystem.preview.js
+.preview-package.sha256
+.launchpad-runtime-deps.stamp
+.venv/
+__pycache__/
+graphify-out/
+.understand-anything/
